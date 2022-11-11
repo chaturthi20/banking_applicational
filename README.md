@@ -14,6 +14,6 @@
 # Output:
  # FVTPL 8000
  # KELP 9000
-# Copy below statements 
-# Paste the statement the compiler
-# Repet the statements till the last one
+# Copy above statements 
+# Paste the statement into the compiler
+# Repeat the statements till the last one
